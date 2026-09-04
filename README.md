@@ -1,1 +1,1 @@
-"# indstudy" 
+# indstudy
